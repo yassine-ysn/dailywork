@@ -6,6 +6,7 @@
 	<modules>
 		<module>dailywork-data</module>
 		<module>dailywork-web</module>
+		<module>dailywork-business</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
